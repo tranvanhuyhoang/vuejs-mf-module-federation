@@ -15,7 +15,8 @@ yarn
 yarn start
 ```
 
-```cd home
+```
+cd home
 yarn
 yarn start
 ```
